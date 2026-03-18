@@ -1,4 +1,4 @@
-# Murray 🍸
+# Murray
 
 An efficient Elixir port of Solana swap logic, enabling seamless token swaps via the Jupiter aggregator. This project provides a robust foundation for building Solana-based DeFi applications using the power of the Erlang VM.
 
