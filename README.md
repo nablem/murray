@@ -56,9 +56,5 @@ The core logic resides in `lib/murray.ex`. The application handles the full life
 4. Generate and sign the versioned transaction.
 5. Broadcast and track the transaction status.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 *Disclaimer: This software is for educational purposes. Use it at your own risk when handling real assets on the Solana network.*
